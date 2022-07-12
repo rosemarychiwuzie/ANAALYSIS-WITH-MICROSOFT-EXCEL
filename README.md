@@ -22,7 +22,7 @@ From the visualization above, it is apparent that during spring, the age group o
  
  
 # RECOMMENDATIONS
--More bikes should be installed at Grove St PATH station which is the most popular pick up station
--Advert placements should be made to attract more persons within the age bracket of 45-54 to utilize the bike rental services during spring as this will increase sales.
--The age group of 35-44 have the highest number of rentals so far and to encourage their interest in Citi bike rentals, they should be given a little discount which will sustain their interest and also encourage other persons within that age bracket to patronize the brand.
+- More bikes should be installed at Grove St PATH station which is the most popular pick up station
+- Advert placements should be made to attract more persons within the age bracket of 45-54 to utilize the bike rental services during spring as this will increase sales.
+- The age group of 35-44 have the highest number of rentals so far and to encourage their interest in Citi bike rentals, they should be given a little discount which will sustain their interest and also encourage other persons within that age bracket to patronize the brand.
 - More bikes should be made available at the middle of the week specifically wednesdays, thursdays to cater for the customers who mostly utilize the brand on those days and also more bikes should be made available on weekends for the benefit of new customers
