@@ -15,7 +15,7 @@ From the visualization above, it is apparent that during spring, the age group o
 ![squarequick_2022712115722244](https://user-images.githubusercontent.com/108612390/178488879-e26e376d-9048-45af-b470-a75981ff7b79.jpg)
  From the pie chart above,the age group of 35- 44 years are the customers with the highest number of bike rents
  
- # HOW DOES THE BIKE RENTAL VARY ACROSS THE TWO USER GROUPS ON DIFFERENT DAYS OF THE WEEK
+ # HOW THE BIKE RENTAL VARY ACROSS THE TWO USER GROUPS ON DIFFERENT DAYS OF THE WEEK
  ![squarequick_2022712115739319](https://user-images.githubusercontent.com/108612390/178489822-37eecd96-5bda-499d-8da9-b0c803611587.jpg)
  
  The one time subscribers make the most bike rentals on weekends typically on saturdays and sundays while subscribers rent mostly during the week with the highest rentals on wednesdays followed by thurdays.
